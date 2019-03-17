@@ -1,0 +1,15 @@
+{
+    "name": "brasil",
+    "short_name": "brasil",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png?v=zXbkeB4jKk",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "https://brasil.soarn.pro",
+    "display": "standalone"
+}
