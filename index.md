@@ -9,5 +9,5 @@
     <meta name="msapplication-TileColor" content="#00a300">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="stylesheet.css" type="text/css">
-  </head?
+  </head>
 </html>
