@@ -2,6 +2,6 @@ body {
     background-image:url('brasil.png');
     background-repeat:no-repeat;
     background-size:cover;
-    background-position: center; 
-    body {background-color: #009B3A;}
+    background-position: center center; 
+    background-color: #009B3A;}
 }
