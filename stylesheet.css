@@ -1,5 +1,5 @@
-body {
-  background-image: url("brasil.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+div {
+    background-image:url('brasil.png');
+    background-repeat:no-repeat;
+    background-size:cover;
 }
