@@ -1,4 +1,5 @@
 body {
   background-image: url("brasil.png");
-    background-size: contain;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
